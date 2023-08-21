@@ -1,6 +1,6 @@
 # Image-Scanned Coding Language
 
-![Project Banner](banner_image.png)
+![Project Banner](images/cover.jpg)
 
 ## Overview
 
