@@ -30,12 +30,12 @@ This project aims to develop a coding language that can be scanned from an image
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/imagescancode.git
-cd imagescancode
+\`git clone https://github.com/yourusername/imagescancode.git\`
+\`cd imagescancode\`
 
 2. Install the required dependencies:
 
-pip install -r requirements.txt
+\`pip install -r requirements.txt\`
 
 3. Download and install Tesseract OCR:
 - [Tesseract Installation Guide](https://github.com/tesseract-ocr/tesseract/wiki)
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 2. Run the main script:
 
-python main.py
+\`python main.py\`
 
 3. Check the generated output in the `output_code` directory.
 
