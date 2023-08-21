@@ -31,7 +31,7 @@ This project aims to develop a coding language that can be scanned from an image
 1. Clone this repository:
 ```
 git clone https://github.com/yourusername/imagescancode.git
-cd imagescancode
+cd weavecompiler
 ```
 2. Install the required dependencies:
 
