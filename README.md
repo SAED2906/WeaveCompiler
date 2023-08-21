@@ -1,4 +1,4 @@
-# Image-Scanned Coding Language
+# Image-Scanned Weave Coding Language
 
 ![Project Banner](images/cover.jpg)
 
